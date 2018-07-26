@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="pressed">#696969</color>
+    <color name="nonpressed1">#fa8072</color>
+    <color name="nonpressed2">#eca3ae</color>
+    <color name="nonpressed3">#96aece</color>
+    <color name="nonpressed4">#db7093</color>
+    <color name="nonpressed5">#f1c374</color>
+    <color name="nonpressed6">#bdb76b</color>
+    <color name="nonpressed7">#d2b48c</color>
+    <color name="nonpressed8">#a9a9a9</color>
+    <color name="nonpressed9">#cd5c5c</color>
+    <color name="splash">#d08640</color>
+
+
+
+</resources>

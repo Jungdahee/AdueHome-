@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowBackground">@drawable/frontdoor</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimaryDark">#efa882</item>
+        <item name="colorPrimary">#f4b996</item>
+        <item name="colorAccent">#f0cbab</item>
+    </style>
+
+</resources>
